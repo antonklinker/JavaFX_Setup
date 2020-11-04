@@ -29,4 +29,6 @@ File --> Project Structure --> Libraries --> Find javafx SDK lib folder in deskt
 Step 2:
 Run --> Edit Configurations --> copy paste this to VM options
 --module-path /Users/antonklinker/Desktop/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml
+
+You're good to go
  */
